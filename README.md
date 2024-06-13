@@ -84,8 +84,7 @@ paradigma pemrograman yang dipakai dart yaitu OOP atau object oriented programmi
   }
   
   /// method, procedure, fungsi without encapsulation
-  void sayHell
-  o(){
+  void sayHello(){
   }
   
   /// method, procedure, fungsi with encapsulation
